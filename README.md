@@ -4,7 +4,7 @@ I'm a software architect, OSS contributor, and hands-on developer with a focus o
 
 I currently work as **Team Lead Software Development** at [WhereGroup](https://wheregroup.com/), a company specialized in **open-source GIS infrastructure**.
 
-I'm the **lead architect** of [**MapComponents**](https://github.com/mapcomponents), a modular UI framework for building flexible and composable spatial web applications maintained by WhereGroup.
+I'm the **lead architect** of [**MapComponents**](https://github.com/mapcomponents), a modular UI framework maintained by WhereGroup for building flexible and composable spatial web applications.
 
 ---
 
