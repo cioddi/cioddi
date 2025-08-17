@@ -1,10 +1,8 @@
 # Hi, I'm Tobias
 
-I'm a software architect, OSS contributor, and hands-on developer with a focus on infrastructure and DevOps automation.
+Software developer focused on open-source, infrastructure as code, and DevOps automation.
 
 I currently work as **Team Lead Software Development** at [WhereGroup](https://wheregroup.com/), a company specialized in **open-source GIS infrastructure**.
-
-I'm the **lead architect** of [**MapComponents**](https://github.com/mapcomponents), a modular UI framework maintained by WhereGroup for building flexible and composable spatial web applications.
 
 ---
 
