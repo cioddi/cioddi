@@ -9,7 +9,7 @@ I currently work as **Team Lead Software Development** at [WhereGroup](https://w
 ## What I Focus On
 
 * **Open GIS Infrastructure** – OSS stacks for spatial data and mapping applications
-* **MapComponents** – Creator and lead architect of a modular spatial UI framework
+* **MapComponents** – Lead architect of a modular spatial UI framework
 * **DevOps & CI/CD** – Container architecture design with Docker, Kubernetes, and modern CI systems (GitHub Actions, GitLab CI, Jenkins, Azure Pipelines, etc.)
 * **Process Standardization** – Versioning, build & deployment workflows across multiple teams
 * **Creative Tools & OSS Projects** – Developer of CLI utilities, automation tools, and web-based creative tools
