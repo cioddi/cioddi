@@ -1,6 +1,6 @@
 # Hi, I'm Tobias
 
-Software developer focused on open-source, infrastructure as code, and DevOps automation.
+Software developer focused on open-source, infrastructure as code,  CI/CD pipelines, and GIS.
 
 I currently work as **Team Lead Software Development** at [WhereGroup](https://wheregroup.com/), a company specialized in **open-source GIS infrastructure**.
 
@@ -24,7 +24,8 @@ I currently work as **Team Lead Software Development** at [WhereGroup](https://w
 | [**autobashcraft**](https://github.com/autobashcraft)             | A tool designed to automate the creation of screencasts from bash code blocks embedded in markdown files                                                                                                                                                                   |
 | [**nametag-designer.com**](https://nametag-designer.com)                 | Webapp to design 3D printable nameplates – [featured on Hackaday](https://hackaday.com/2020/02/22/3d-printable-nameplates-from-your-web-browser/)                                                                                    |
 | [**cosmic-ork-conflict**](https://github.com/cioddi/cosmic-ork-conflict) | A quirky non-interactive RTS built with MapComponents – [play here](https://cioddi.github.io/cosmic-ork-conflict/)                                                                                                              |
-| [**stlmaps**](https://github.com/cioddi/stlmaps)                         | An experiment exploring a monorepo architecture with a Rust WASM module that processes map data directly in the browser, generating printable 3D models. Public deployment: [stlmaps](https://cioddi.github.io/stlmaps/) |
+| [**stlmaps**](https://github.com/cioddi/stlmaps)                         | An experiment exploring a monorepo architecture with a Rust WASM module that processes map data directly in the browser, generating printable 3D models. Public deployment: [stlmaps](https://cioddi.github.io/stlmaps/) |                              |
+| [**placeskull**](https://placeskull.com/)                         | Creator of placeskull.com a SVG placeholder graphics service serving SVG skulls in all colors or dimensions (2012) |
 
 ---
 
